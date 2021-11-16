@@ -1,4 +1,4 @@
-Seccion2.1-grupo7
+Ejercicios Seccion2.1-grupo7
 
 Clonpage = Archivo de copia de pagina de muestra
 
